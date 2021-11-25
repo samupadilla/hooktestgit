@@ -26,6 +26,7 @@
         <input type="submit" value="Listar" class="btn btn-primary" formaction="controlador/controladorlistar.php">
         <input type="submit" value="Modificar" class="btn btn-primary">
         <input type="submit" value="Eliminar" class="btn btn-primary">
+        <input type="submit" value="Testing" class="btn btn-primary">
     </form>
     </section>
     
